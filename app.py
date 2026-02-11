@@ -27,7 +27,7 @@ def predict():
 
     return render_template(
     'index.html',
-    prediction_text=f"{name} is {'Addicted' if output == 1 else 'not Addicted'}")
-
+    prediction_text= f"{name} is {'Addicted' if output == 1 else 'not Addicted'}")
+    # 
 if __name__ == "__main__":
     app.run(debug=True)
