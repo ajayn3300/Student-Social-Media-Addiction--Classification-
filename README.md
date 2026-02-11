@@ -38,3 +38,6 @@ The dataset contains **705 student records** with demographic, behavioral, and p
 ---
 
 If you found this project useful, consider giving it a star on GitHub!
+
+#CHECK APP:
+https://student-social-media-addiction.onrender.com
